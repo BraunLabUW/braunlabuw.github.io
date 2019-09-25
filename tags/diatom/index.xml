@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diatom | Braun Lab @ UW</title>
+    <link>https://braunlabuw.github.io/tags/diatom/</link>
+      <atom:link href="https://braunlabuw.github.io/tags/diatom/index.xml" rel="self" type="application/rss+xml" />
+    <description>diatom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://braunlabuw.github.io/img/icon-192.png</url>
+      <title>diatom</title>
+      <link>https://braunlabuw.github.io/tags/diatom/</link>
+    </image>
+    
+    <item>
+      <title>Identifying reference genes with stable expression from high throughput sequence data</title>
+      <link>https://braunlabuw.github.io/publication/braun2019_pnas/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/publication/braun2019_pnas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

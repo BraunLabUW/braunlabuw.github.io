@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Braun Lab @ UW</title>
+    <link>https://braunlabuw.github.io/publication/</link>
+      <atom:link href="https://braunlabuw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://braunlabuw.github.io/img/headers/perpetual_ocean.png</url>
+      <title>Publications</title>
+      <link>https://braunlabuw.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Phonetic transcription of tone in the IPA</title>
+      <link>https://braunlabuw.github.io/publication/hughp/hughp/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://braunlabuw.github.io/publication/hughp/hughp/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;This was a poster presentation presented at the 18th International Conference of Phonetic Sciences in 2015. Links are to the poster and the 5 page paper is in the conference proceedings.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). *Proceedings of the 18th International Conference of Phonetic Sciences* Paper number 507.1-5. University of Glasgow: Glasgow, UK.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identifying reference genes with stable expression from high throughput sequence data</title>
+      <link>https://braunlabuw.github.io/publication/braun2019_pnas/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/publication/braun2019_pnas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

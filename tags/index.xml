@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Braun Lab @ UW</title>
+    <link>https://braunlabuw.github.io/tags/</link>
+      <atom:link href="https://braunlabuw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://braunlabuw.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://braunlabuw.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>diatom</title>
+      <link>https://braunlabuw.github.io/tags/diatom/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/diatom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>housekeeping genes</title>
+      <link>https://braunlabuw.github.io/tags/housekeeping-genes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/housekeeping-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phytoplankton</title>
+      <link>https://braunlabuw.github.io/tags/phytoplankton/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/phytoplankton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reference gene</title>
+      <link>https://braunlabuw.github.io/tags/reference-gene/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/reference-gene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relative gene expression</title>
+      <link>https://braunlabuw.github.io/tags/relative-gene-expression/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/relative-gene-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rt-qpcr</title>
+      <link>https://braunlabuw.github.io/tags/rt-qpcr/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/rt-qpcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thalassiosira pseudonana</title>
+      <link>https://braunlabuw.github.io/tags/thalassiosira-pseudonana/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/thalassiosira-pseudonana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcriptomics</title>
+      <link>https://braunlabuw.github.io/tags/transcriptomics/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <guid>https://braunlabuw.github.io/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

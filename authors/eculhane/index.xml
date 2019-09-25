@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Braun Lab @ UW</title>
+    <link>https://braunlabuw.github.io/authors/eculhane/</link>
+      <atom:link href="https://braunlabuw.github.io/authors/eculhane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Braun Lab @ UW</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://braunlabuw.github.io/img/icon-192.png</url>
+      <title>Braun Lab @ UW</title>
+      <link>https://braunlabuw.github.io/authors/eculhane/</link>
+    </image>
+    
+  </channel>
+</rss>

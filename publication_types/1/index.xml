@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Braun Lab @ UW</title>
+    <link>https://braunlabuw.github.io/publication_types/1/</link>
+      <atom:link href="https://braunlabuw.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://braunlabuw.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://braunlabuw.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Phonetic transcription of tone in the IPA</title>
+      <link>https://braunlabuw.github.io/publication/hughp/hughp/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://braunlabuw.github.io/publication/hughp/hughp/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;This was a poster presentation presented at the 18th International Conference of Phonetic Sciences in 2015. Links are to the poster and the 5 page paper is in the conference proceedings.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). *Proceedings of the 18th International Conference of Phonetic Sciences* Paper number 507.1-5. University of Glasgow: Glasgow, UK.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
